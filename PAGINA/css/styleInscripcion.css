@@ -1,0 +1,239 @@
+.inscripci-n,
+.inscripci-n * {
+  box-sizing: border-box;
+}
+.inscripci-n {
+  background: #29262c;
+  height: 1024px;
+  position: relative;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.body {
+  margin: 0;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden ;
+}
+.water-texture-background-pastel-blue-design-1 {
+  position:absolute;
+  width:100%; 
+  height:100%;
+  background-size:cover;
+  overflow-y: scroll;
+}
+.nombre-procedencia-categor-a-instagram-correo-electr-nico {
+  color: #ffffff;
+  text-align: right;
+  font-family: "Manrope-ExtraBold", sans-serif;
+  font-size: 40px;
+  line-height: 132.73%;
+  letter-spacing: -0.13em;
+  font-weight: 800;
+  position: absolute;
+  left: 30px;
+  top: 287px;
+  width: 350px;
+  height: 599px;
+  text-shadow: 4px 4px 25px rgb(73, 117, 124);
+}
+.inscripci-n2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Manrope-Light", sans-serif;
+  font-size: 96px;
+  letter-spacing: -0.1em;
+  font-weight: 300;
+  position: absolute;
+  left: 902px;
+  top: 132px;
+  width: 441px;
+  height: 131px;
+  text-shadow: 2px 2px 40px rgb(73, 117, 124);
+}
+.rectangle-3 {
+  background: rgba(217, 217, 217, 0.2);
+  border-radius: 247px;
+  width: 465px;
+  height: 59px;
+  position: absolute;
+  left: 398px;
+  top: 288px;
+  box-shadow: 0px 0px 87.8px -7px rgba(0, 0, 0, 0.25);
+  background: rgba(255, 255, 255, 0.14)!important;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1)!important;
+  backdrop-filter: blur(11.3px)!important;
+  -webkit-backdrop-filter: blur(11.3px)!important;
+  border: 1px solid rgba(255, 255, 255, 0.66)!important;
+}
+.rectangle-4 {
+  background: rgba(217, 217, 217, 0.2);
+  border-radius: 247px;
+  width: 465px;
+  height: 59px;
+  position: absolute;
+  left: 398px;
+  top: 394px;
+  box-shadow: 0px 0px 87.8px -7px rgba(0, 0, 0, 0.25);
+  background: rgba(255, 255, 255, 0.14)!important;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1)!important;
+  backdrop-filter: blur(11.3px)!important;
+  -webkit-backdrop-filter: blur(11.3px)!important;
+  border: 1px solid rgba(255, 255, 255, 0.66)!important;
+}
+.rectangle-5 {
+  background: rgba(217, 217, 217, 0.2);
+  border-radius: 247px;
+  width: 465px;
+  height: 59px;
+  position: absolute;
+  left: 398px;
+  top: 500px;
+  box-shadow: 0px 0px 87.8px -7px rgba(0, 0, 0, 0.25);
+  background: rgba(255, 255, 255, 0.14)!important;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1)!important;
+  backdrop-filter: blur(11.3px)!important;
+  -webkit-backdrop-filter: blur(11.3px)!important;
+  border: 1px solid rgba(255, 255, 255, 0.66)!important;
+}
+.rectangle-6 {
+  background: rgba(217, 217, 217, 0.2);
+  border-radius: 247px;
+  width: 465px;
+  height: 59px;
+  position: absolute;
+  left: 398px;
+  top: 606px;
+  box-shadow: 0px 0px 87.8px -7px rgba(0, 0, 0, 0.25);
+  background: rgba(255, 255, 255, 0.14)!important;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1)!important;
+  backdrop-filter: blur(11.3px)!important;
+  -webkit-backdrop-filter: blur(11.3px)!important;
+  border: 1px solid rgba(255, 255, 255, 0.66)!important;
+}
+.rectangle-7 {
+  background: rgba(217, 217, 217, 0.2);
+  border-radius: 247px;
+  width: 465px;
+  height: 59px;
+  position: absolute;
+  left: 398px;
+  top: 712px;
+  box-shadow: 0px 0px 87.8px -7px rgba(0, 0, 0, 0.25);
+  background: rgba(255, 255, 255, 0.14)!important;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1)!important;
+  backdrop-filter: blur(11.3px)!important;
+  -webkit-backdrop-filter: blur(11.3px)!important;
+  border: 1px solid rgba(255, 255, 255, 0.66)!important;
+}
+.footer {
+  margin: 0;
+  width: 100%;
+  padding: 36px 501px 36px 501px;
+  display: flex;
+  flex-direction: row;
+  gap: 140px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  top: 884px;
+  overflow: hidden;
+}
+.aviso-legal {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Manrope-Regular", sans-serif;
+  font-size: 40px;
+  letter-spacing: -0.1em;
+  font-weight: 400;
+  position: relative;
+
+}
+.zacoruna {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Manrope-Regular", sans-serif;
+  font-size: 40px;
+  letter-spacing: -0.1em;
+  font-weight: 400;
+  position: relative;
+
+}
+.controller {
+  background: rgba(99, 161, 178, 0.7);
+  border-radius: 690px;
+  opacity: 0.85;
+  width: 191px;
+  height: 90px;
+  position: absolute;
+  left: 968px;
+  top: 28px;
+  position: fixed !important;
+}
+.header {
+  background: rgba(255, 0, 0, 0);
+  border-radius: 403px;
+  padding: 16px 209px 16px 209px;
+  display: flex;
+  flex-direction: row;
+  gap: 270px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 10px;
+  right: 10px;
+  top: 28px;    
+  background: rgba(255, 255, 255, 0.14)!important;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1)!important;
+  backdrop-filter: blur(11.3px)!important;
+  -webkit-backdrop-filter: blur(11.3px)!important;
+  border: 1px solid rgba(255, 255, 255, 0.66)!important;
+  overflow: hidden;
+  position: fixed !important;
+}
+.header a{
+  color: #ffffff !important;
+}
+.filosof-a {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Manrope-Light", sans-serif;
+  font-size: 51px;
+  letter-spacing: -0.1em;
+  font-weight: 300;
+  position: relative;
+  width: 126px;
+}
+.informaci-n {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Manrope-Light", sans-serif;
+  font-size: 51px;
+  letter-spacing: -0.1em;
+  font-weight: 300;
+  position: relative;
+  width: 188px;
+}
+.inscripci-n3 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Manrope-Light", sans-serif;
+  font-size: 51px;
+  letter-spacing: -0.1em;
+  font-weight: 300;
+  position: relative;
+  width: 170px;
+}
+.entradas {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Manrope-Light", sans-serif;
+  font-size: 51px;
+  letter-spacing: -0.1em;
+  font-weight: 300;
+  position: relative;
+  width: 145px;
+}
